@@ -1,0 +1,51 @@
+body {
+    background-color: #E3FDFD;
+}
+
+.page-title {
+    font-family: Georgia, sans-serif;
+    color: #71C9CE;
+}
+
+.anime-title {
+    font-family: Georgia, sans-serif;
+    color: #71C9CE;
+}
+
+.rating {
+  font-family: Georgia, sans-serif;
+  color: #A6E3E9;
+}
+
+.where {
+  font-family: Georgia, sans-serif;
+  color: darkturquoise;
+}
+
+.animesum {
+    font-family: Georgia, sans-serif;
+    color: #71C9CE;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  img {
+    max-width: 100%
+  }
+  
+  .image {
+    flex-basis: 40%
+  }
+  
+  .text {
+    word-spacing: 2px;
+  }
+
+footer {
+  font-family: Georgia, sans-serif;
+  font-size: medium;
+}
